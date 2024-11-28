@@ -1,0 +1,26 @@
+ <h2 class=" text-3xl lg:text-4xl font-extrabold mb-5 ">Program Sections</h2>
+      <p class="lg: max-w-3xl mb-10 mx-auto text-base	 text-peragraph_color">Dit amet consectetur. Condimentum dignissim adipiscing aliquam turpis placerat <br> dolor. Purus urna in sit nullam proin.  </p>
+
+      <div>
+        <div>
+          <!-- 11111 -->
+          <div class="hero min-h-screen mt-12" style="background-image: url(../Hockeys/Images/2.png);">
+            <!-- <div class="hero-overlay bg-opacity-60"></div> -->
+            <div class="hero-content text-white text-center ">
+              <div class="">
+                <h1 class="mb-5 text-4xl lg:text-7xl font-bold">We Provide Effective <br> Legal Solutions</h1>
+                <p class="mb-5">
+                  There are many variations of passages of Lorem Ipsum available, but the majority <br> have suffered
+                  alteration in some form, by injected humour.
+                </p>
+                <div class="p-5 space-y-3 lg:space-x-5">
+                  <input type="text" placeholder="Search your services"
+                    class="input  input-accent w-full max-w-xs rounded-lg border-none p-x-5" />
+                  <button class="btn bg-primary rounded-lg w-32 ">Search</button>
+                </div>
+      
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
